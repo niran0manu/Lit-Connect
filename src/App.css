@@ -1,0 +1,25 @@
+.App{
+    background-color:#1f2125;    
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin: 30px;
+    
+}
+
+.app__body{
+    display : flex;
+    
+}
+
+html {
+    height: 100%;
+  }
+body {
+    background-color:#1f2125;  
+    min-height: 100%;
+  }
+
+
+
+/* f3f2ef; : orginal*/ 

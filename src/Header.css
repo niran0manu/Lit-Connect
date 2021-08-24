@@ -1,0 +1,65 @@
+.Header{
+    position:sticky;
+    top:0;
+    display:flex;
+    background-color: #1f2125;
+    justify-content: space-evenly;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    z-index:999;    
+    margin-bottom:25px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 1);
+    
+    
+}
+
+
+
+
+
+.header__left {
+    display :flex;
+}
+
+.header__left > img {
+    object-fit :contain;
+    height: 40px;
+    margin-right: 10px;
+    
+    
+}
+
+.header__search{
+ padding: 10px;
+ display: flex;
+ align-items: center; 
+ height:22px;
+ color: whitesmoke;
+ background-color:#1f2125;
+ 
+    
+}
+
+.header__search:hover{
+    box-shadow: 0 -2px 10px rgba(48, 135, 169, 1);
+}
+
+
+
+
+.header__search > input {
+    outline:none;
+    border: none;
+    background:#1f2125;
+    color: whitesmoke;
+}
+
+
+.header__right{
+    display:flex;
+    min-width: 0;
+
+}
+
+
