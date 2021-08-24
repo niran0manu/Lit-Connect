@@ -1,3 +1,4 @@
+![L-connect feed page](https://user-images.githubusercontent.com/11633823/130573084-d6778198-2689-4e12-b50a-d25184ad8ccd.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
